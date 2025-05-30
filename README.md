@@ -26,3 +26,5 @@ Educational tools for understanding wind dynamics in coastal zones
 
 
 ![north_adriatic_wind_flow](https://github.com/user-attachments/assets/1091893b-6ea2-4738-9f5b-519e9276afb7)
+
+Adtopted after: Miloš Popović
